@@ -1,0 +1,57 @@
+
+header {
+    background-color: rgb(51, 9, 3);
+    border:3px solid black;
+    text-align: center;
+    font-family:SEGOE PRINT;
+    font-size: 40px;
+}
+
+h1,h2 {
+    font-family:SEGOE PRINT;
+
+
+}
+img {
+    height:30px;
+    text-align:center;
+
+
+}
+
+a {
+    text-decoration:none;
+    border:1px solid black;
+    border-radius:5px;
+    background-color: burlywood;
+    text-align: center;
+    padding: 8px;
+    margin: 100px
+
+}
+
+body {
+    background-color:#F0E68C;
+
+}
+
+footer{ 
+    background-color:rgb(51, 9, 3);
+    border:3px solid black;
+    font-family:SEGOE PRINT;
+}
+
+p {
+    font-size:20px;
+    font-family:SEGOE PRINT;
+
+}
+.catalog {
+    font-family:Calibri;
+    font-size:20px;
+    padding:10px;
+    margin:10px;
+
+
+
+}
